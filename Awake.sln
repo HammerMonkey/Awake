@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwakeWinForms", "Awake\AwakeWinForms.csproj", "{7AC8D091-0F7A-4CAE-ADB4-08DC50EDA00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwakeWPF", "AwakeWPF\AwakeWPF.csproj", "{AECEA637-5186-4B2C-AB91-849C5D576CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC8D091-0F7A-4CAE-ADB4-08DC50EDA00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8D091-0F7A-4CAE-ADB4-08DC50EDA00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8D091-0F7A-4CAE-ADB4-08DC50EDA00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8D091-0F7A-4CAE-ADB4-08DC50EDA00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECEA637-5186-4B2C-AB91-849C5D576CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECEA637-5186-4B2C-AB91-849C5D576CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECEA637-5186-4B2C-AB91-849C5D576CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECEA637-5186-4B2C-AB91-849C5D576CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB13793-B2F1-4C99-877D-2040EEEA0E1B}
+	EndGlobalSection
+EndGlobal

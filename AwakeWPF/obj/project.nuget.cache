@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jyJKPb9onAPsCqXx/t65ge+0Bkn58RAPxBxYJpTybDKgJvTtjZAIZmdZ1/XsBMlVBJT3uml8+C7SYN0zfLk+nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patryk\\source\\repos\\Awake\\AwakeWPF\\AwakeWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patryk\\.nuget\\packages\\hardcodet.notifyicon.wpf\\1.1.0\\hardcodet.notifyicon.wpf.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
